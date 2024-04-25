@@ -2,6 +2,9 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+En este proyecto aprendi utilizar la API de leaflet que es muy util para proyectos grandes que requieran de geolocalizacion.
+No pude ponerla en Github Pages por que son dos paginas y Github Pages solo te permite subir una.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
