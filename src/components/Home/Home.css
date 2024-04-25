@@ -1,0 +1,43 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background: rgb(180, 79, 161);
+    radient(circle, rgba(180, 79, 161, 1) 14%, rgba(189, 78, 154, 1) 28%, rgba(192, 77, 152, 1) 40%, rgba(195, 77, 150, 1) 49%, rgba(198, 77, 148, 1) 58%, rgba(201, 76, 145, 1) 69%, rgba(218, 74, 132, 1) 79%, rgba(252, 70, 107, 1) 91%, rgba(252, 70, 107, 1) 96%);
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.coordinate {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+.link:hover {
+    background-color: #45a049;
+}
