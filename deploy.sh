@@ -22,6 +22,6 @@ git commit -m 'deploy'
 #if you are deploying to https.//<USERNAME>.github.io/<REPO>
 
 					  #cambiar nombre del repo
-git push -f git@github.com:ErickCastroo/tutorial-custom-hook.git main:gh-pages
+git push -f git@github.com:ErickCastroo/React-Leaflet.git main:gh-pages
 
 cd -
